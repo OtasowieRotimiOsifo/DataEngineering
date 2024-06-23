@@ -1,0 +1,6 @@
+[submodule "ETL"]
+	path = ETL
+	url = https://github.com/OtasowieRotimiOsifo/ETL.git
+[submodule "Data-Modelling"]
+	path = Data-Modelling
+	url = https://github.com/OtasowieRotimiOsifo/Data-Modelling.git
